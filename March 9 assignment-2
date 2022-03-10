@@ -1,0 +1,3 @@
+x="Aditya Educational Institutions,Aditya Group"
+n=x.count("aditya")
+print(n)
